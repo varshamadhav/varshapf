@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/varshapf/static/css/main.51398150.css",
+    "main.js": "/varshapf/static/js/main.c36b7b5c.js",
+    "static/js/787.d4aba7ab.chunk.js": "/varshapf/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/varshapf/index.html",
+    "main.51398150.css.map": "/varshapf/static/css/main.51398150.css.map",
+    "main.c36b7b5c.js.map": "/varshapf/static/js/main.c36b7b5c.js.map",
+    "787.d4aba7ab.chunk.js.map": "/varshapf/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51398150.css",
+    "static/js/main.c36b7b5c.js"
+  ]
+}
